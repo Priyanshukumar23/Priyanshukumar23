@@ -1,44 +1,3 @@
-Generated image: "Futuristic dark mode pharmaceutical inventory and order management web application UI mockup, showing precision unit conversion metrics (kg, grams, mL), high tech medical data charts, and clean modern glowing dashboard panels with cyan and purple accents. No surrounding device frames, pure sleek UI design."
-Generated image: "High tech dark mode AI career preparation and coding interview platform UI mockup, featuring code evaluation editor window, AI resume score gauge, mock interview video panel, and dark cyan glowing design. No surrounding laptop frames, pure modern interface design."
-Generated image: "Vibrant dark mode community and event management web platform UI mockup, showing real time chat message bubbles, hobby group tiles, multimedia event schedule calendar, and sleek neon purple and magenta accents. No surrounding device frames."
-Generated image: "Sleek dark mode AI resume analyzer and ATS scoring dashboard UI mockup, showing a document scanner interface matching resume against job descriptions, high ATS score progress circle (85%), and Telegram bot connection status in emerald and blue glowing colors. No surrounding frames."
-Generated image: "Modern dark mode full stack e-commerce web store UI mockup, featuring clean product grid cards with prices, search and category filter sidebar, shopping cart summary, and elegant golden and dark navy design. No surrounding device frames."
-Generated image: "High tech dark mode algorithm and data structures problem solving stats dashboard illustration, featuring glowing glowing green activity heatmap grid, progress circles showing 300+ problems solved, Java code snippets, and glowing neon purple and orange aesthetic. Sleek modern infographic."
-
-To update your GitHub Profile README artifact (`github_profile_readme.md`) with all of your custom AI-generated project illustrations (`pharmsphere_banner`, `prephub_banner`, `skillsphere_banner`, `resume_analyzer_banner`, `kumar_brothers_banner`, and `leetcode_banner`), clean up every single raw text link issue (`![Next.js]...` syntax converted to pure `<img src="..." />` tags so they never show up as broken text), and use the high-speed mirrors for GitHub stats, I will use `write_to_file` (`Overwrite: true`). Related tools include `replace_file_content`.
-
-Let's update the artifact right away.
-
-Edited github_profile_readme.md
-
-I have completed a total visual redesign and clean-up of your **[github_profile_readme.md](file:///C:/Users/91808/.gemini/antigravity/brain/ec49f9c5-cb39-4be0-b917-1ae2302a337c/github_profile_readme.md)**!
-
-### ✨ What's Fixed & Enhanced:
-1. **Zero Raw Text Links (`![Next.js]...` Completely Gone):** Every single technology badge in **Featured Projects** and **LeetCode** has been converted from Markdown `![badge](url)` syntax to pure HTML `<img src="..." alt="..." />` tags inside clean stacked blocks. This ensures that badges **never** leak out as raw blue text strings or broken links!
-2. **AI-Generated Project Banner Illustrations Added:** We generated 6 custom, sleek, futuristic dark-mode UI illustrations and embedded them directly above each project and LeetCode dashboard:
-   - **PharmSphere:** Medical inventory precision charts & unit conversion panels.
-   - **PREPHUB:** AI coding interview & evaluation interface.
-   - **SKILLSPHERE:** Community event tiles & live chat bubbles.
-   - **Dr-Resume-Analyzer-AI:** ATS resume scanner & Telegram bot metrics.
-   - **Kumar Brothers:** Full-stack e-commerce store layout.
-   - **LeetCode Dashboard:** High-tech green activity heatmap & algorithm progress infographic.
-3. **High-Speed GitHub Stats Endpoints:** Swapped out rate-limited endpoints for high-speed mirrored endpoints (`streak-stats.demolab.com` and `github-readme-stats-fast.vercel.app`), which load dramatically faster without timing out.
-
----
-
-### 🚀 How to Put These Images on Your GitHub Repository:
-When you copy the Markdown below into your repository (`Priyanshukumar23/Priyanshukumar23`), remember that the custom images are currently saved on your local machine in the artifact directory (`C:\Users\91808\.gemini\antigravity\brain\ec49f9c5-cb39-4be0-b917-1ae2302a337c\`). 
-
-To make them show up on GitHub:
-1. Copy the 6 `.png` image files (`pharmsphere_banner_...png`, `prephub_banner_...png`, `skillsphere_banner_...png`, `resume_analyzer_banner_...png`, `kumar_brothers_banner_...png`, and `leetcode_banner_...png`) into your GitHub profile repository (`Priyanshukumar23/Priyanshukumar23`).
-2. Rename them to `pharmsphere.png`, `prephub.png`, `skillsphere.png`, `resume_analyzer.png`, `kumar_brothers.png`, and `leetcode.png` inside your repo.
-3. In your `README.md` on GitHub, update the local image file paths to match your uploaded filenames!
-
----
-
-### 📋 Copy-Paste Ready Markdown Code
-
-```markdown
 # Hi there, I'm Priyanshu Kumar — Full-Stack & DevOps Engineer 👋🚀
 
 <div align="center">
@@ -259,4 +218,3 @@ I am a results-driven **Full-Stack & DevOps Engineer** passionate about building
     <a href="mailto:your.email@example.com">Contact via Email</a>
   </p>
 </div>
-```
