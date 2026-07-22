@@ -200,6 +200,7 @@ I am a results-driven **Full-Stack & DevOps Engineer** passionate about building
 ### 📊 Data Structures & Algorithms Proficiency (LeetCode)
 
 <div align="center">
+  <h2>⚡ Priyanshu Kumar ⚡</h2>
   <p>
     ![Solved](https://img.shields.io/badge/Problems_Solved-309%2B-007396?style=for-the-badge&logo=leetcode&logoColor=white)
     ![Medium/Hard](https://img.shields.io/badge/Medium_%2F_Hard-208%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
@@ -207,8 +208,8 @@ I am a results-driven **Full-Stack & DevOps Engineer** passionate about building
     ![Max Streak](https://img.shields.io/badge/Max_Streak-118_Days_🔥-FF4B4B?style=for-the-badge)
   </p>
 
-  <!-- Dynamic LeetCode Heatmap & Circle Stats Card -->
-  <img src="https://leetcard.jacoblin.cool/sharma_025?theme=radical&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats & Heatmap" width="90%" />
+  <!-- Dynamic LeetCode Circle Stats & Heatmap (Username Hidden via &hide=username) -->
+  <img src="https://leetcard.jacoblin.cool/sharma_025?theme=radical&font=Fira%20Code&ext=heatmap&hide=username" alt="LeetCode Stats & Heatmap" width="90%" />
 </div>
 
 ---
