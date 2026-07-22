@@ -56,8 +56,6 @@ I am a results-driven **Full-Stack & DevOps Engineer** passionate about building
 
 ### 🏥 [PharmSphere — High-Precision Inventory & Order Management System](https://github.com/Priyanshukumar23/PharmSphere)
 
-![PharmSphere UI Illustration](pharmsphere_banner_1784742560358.png)
-
 <p>
   <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/PostgreSQL_Neon-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -72,8 +70,6 @@ I am a results-driven **Full-Stack & DevOps Engineer** passionate about building
 ---
 
 ### ⚡ [PREPHUB — AI Tech Career Preparation & Networking Ecosystem](https://github.com/Priyanshukumar23/PREPHUB)
-
-![PREPHUB UI Illustration](prephub_banner_1784742572862.png)
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -91,8 +87,6 @@ I am a results-driven **Full-Stack & DevOps Engineer** passionate about building
 
 ### 🌐 [SKILLSPHERE — Community & Event Management Platform](https://github.com/Priyanshukumar23/SKILLSPHERE)
 
-![SKILLSPHERE UI Illustration](skillsphere_banner_1784742585143.png)
-
 <p>
   <img src="https://img.shields.io/badge/MERN_Stack-000?style=for-the-badge&logo=mongodb&logoColor=green" alt="MERN" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
@@ -106,8 +100,6 @@ I am a results-driven **Full-Stack & DevOps Engineer** passionate about building
 ---
 
 ### 🤖 [DR-RESUME-ANALYZER — AI Bot & MERN Web Application](https://github.com/Priyanshukumar23/Dr-Resume-Analyzer-AI)
-
-![DR-RESUME-ANALYZER UI Illustration](resume_analyzer_banner_1784742595823.png)
 
 <p>
   <img src="https://img.shields.io/badge/React_Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite React" />
@@ -123,8 +115,6 @@ I am a results-driven **Full-Stack & DevOps Engineer** passionate about building
 ---
 
 ### 🛒 [Kumar Brothers — Full-Stack E-Commerce Platform](https://github.com/Priyanshukumar23/KumarBrother)
-
-![Kumar Brothers UI Illustration](kumar_brothers_banner_1784742606512.png)
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -160,7 +150,6 @@ I am a results-driven **Full-Stack & DevOps Engineer** passionate about building
     <img src="https://img.shields.io/badge/Contest_Rating-1413_(Top_79%25)-2496ED?style=for-the-badge" alt="Contest Rating" />
     <img src="https://img.shields.io/badge/Max_Streak-118_Days_🔥-FF4B4B?style=for-the-badge" alt="Max Streak" />
   </p>
-  <img src="leetcode_banner_1784742628133.png" alt="LeetCode DSA Dashboard" width="90%" style="border-radius: 10px;" />
 </div>
 
 ---
@@ -197,8 +186,8 @@ I am a results-driven **Full-Stack & DevOps Engineer** passionate about building
 
 <div align="center">
   <!-- GitHub Stats & Top Languages -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Priyanshukumar23&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Priyanshukumar23&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshukumar23&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshukumar23&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <br />
