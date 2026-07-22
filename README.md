@@ -51,57 +51,141 @@ I am a results-driven **Full-Stack & DevOps Engineer** passionate about building
 
 ### 🚀 Featured Projects
 
-#### 1. 🏥 [PharmSphere — High-Precision Inventory & Order Management System](https://github.com/Priyanshukumar23/PharmSphere)
-> **Role:** Full-Stack & System Architect | **Tech Stack:** `Next.js (App Router, Server Actions)` • `PostgreSQL (Neon)` • `Prisma ORM` • `NextAuth.js` • `Custom CSS`
+<table width="100%">
+  <tr>
+    <td width="48%" valign="top">
+      <a href="https://github.com/Priyanshukumar23/PharmSphere">
+        <img src="https://opengraph.githubassets.com/1/Priyanshukumar23/PharmSphere" alt="PharmSphere Preview" width="100%" style="border-radius: 8px;" />
+      </a>
+    </td>
+    <td width="52%" valign="top">
+      <h3>🏥 <a href="https://github.com/Priyanshukumar23/PharmSphere">PharmSphere</a></h3>
+      <p><em>High-Precision Inventory & Order Management System</em></p>
+      <p>
+        ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+        ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_Neon-316192?style=flat-square&logo=postgresql&logoColor=white)
+        ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+        ![NextAuth](https://img.shields.io/badge/NextAuth.js-purple?style=flat-square)
+      </p>
+      <ul>
+        <li><b>Base Unit Conversion Engine:</b> Solved unit variations (<code>kg</code>, <code>g</code>, <code>L</code>, <code>mL</code>, <code>item</code>) via Base Unit Storage Pattern across MASS (g), VOLUME (mL), and COUNT (item).</li>
+        <li><b>Extreme Precision:</b> Engineered PostgreSQL schemas with <code>NUMERIC(18,6)</code> (inventory) and <code>NUMERIC(15,4)</code> (micro-paise pricing) to eliminate floating-point drift.</li>
+        <li><b>Role-Based Access (RBAC):</b> 3 distinct roles: <b>Admin</b> (marketplace moderation & support), <b>Seller</b> (catalog & stock management), and <b>Buyer</b> (dynamic weight quotations & UPI/COD checkout).</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-- **The Base Unit Conversion Engine:** Solved the complex domain challenge of varying inventory units (`kg`, `g`, `L`, `mL`, `item`) and micro-paise scale pricing using the **Base Unit Storage Pattern** across **MASS** (g), **VOLUME** (mL), and **COUNT** (item).
-- **Extreme Database Precision:** Engineered robust PostgreSQL schemas utilizing `NUMERIC(18, 6)` (`stockInBaseUnit`) for micro-quantities of chemicals and `NUMERIC(15, 4)` (`pricePerBaseUnit`) to eliminate floating-point drift and guarantee exact calculation accuracy.
-- **Dynamic Frontend Conversion:** Seamlessly converts base units (`5000g`) back to requested display units (`5 kg`) on the fly, preserving exact user intent (`requestedDisplayQuantity` & `requestedDisplayUnit`) while rendering exact 2-decimal rounded INR totals (`itemTotalInr`).
-- **Role-Based Access Control (RBAC):** Built secure multi-role workflows via `NextAuth.js`:
-  - **Admin:** Global platform oversight, marketplace account moderation (restrict/unrestrict bad actors), and support query resolution.
-  - **Seller:** Full product catalog management, real-time inventory tracking, and incoming sales monitoring.
-  - **Buyer:** Global catalog browsing, dynamic quotations across custom weights/volumes, cart checkout (UPI/COD), and profile management.
+<br />
+
+<table width="100%">
+  <tr>
+    <td width="48%" valign="top">
+      <a href="https://github.com/Priyanshukumar23/PREPHUB">
+        <img src="https://opengraph.githubassets.com/1/Priyanshukumar23/PREPHUB" alt="PREPHUB Preview" width="100%" style="border-radius: 8px;" />
+      </a>
+    </td>
+    <td width="52%" valign="top">
+      <h3>⚡ <a href="https://github.com/Priyanshukumar23/PREPHUB">PREPHUB</a></h3>
+      <p><em>AI Tech Career Preparation & Networking Ecosystem</em></p>
+      <p>
+        ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+        ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+        ![Gemini AI](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+        ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+        ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+      </p>
+      <ul>
+        <li><b>AI Mock Interviews & Code Evaluation:</b> Integrated <b>Gemini API</b> for real-time C++/Java code grading and technical mock interviews.</li>
+        <li><b>ATS Resume Builder:</b> Boosted shortlisting success rates by <b>40%</b> across 100+ active users.</li>
+        <li><b>DevOps Pipelines:</b> Architected containerized <b>Docker microservices</b> paired with automated <b>Jenkins CI/CD pipelines</b> ensuring seamless zero-downtime releases.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<table width="100%">
+  <tr>
+    <td width="48%" valign="top">
+      <a href="https://github.com/Priyanshukumar23/SKILLSPHERE">
+        <img src="https://opengraph.githubassets.com/1/Priyanshukumar23/SKILLSPHERE" alt="SKILLSPHERE Preview" width="100%" style="border-radius: 8px;" />
+      </a>
+    </td>
+    <td width="52%" valign="top">
+      <h3>🌐 <a href="https://github.com/Priyanshukumar23/SKILLSPHERE">SKILLSPHERE</a></h3>
+      <p><em>Community & Event Management Platform</em></p>
+      <p>
+        ![MERN](https://img.shields.io/badge/MERN_Stack-000?style=flat-square&logo=mongodb&logoColor=green)
+        ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+        ![Express](https://img.shields.io/badge/Express.js-000?style=flat-square)
+      </p>
+      <ul>
+        <li><b>Dual Panel MERN Architecture:</b> Empowered <b>200+ users</b> across 10+ hobby groups to share multimedia posts with synchronized music and join <b>50+ curated events</b>.</li>
+        <li><b>Real-Time Chat Engine:</b> Built live group messaging and global anonymous chat rooms using <b>Socket.io</b>, elevating daily engagement by <b>40%</b>.</li>
+        <li><b>Automated Moderation:</b> Implemented live profanity filtering and administrative role controls to enforce decorum.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<table width="100%">
+  <tr>
+    <td width="48%" valign="top">
+      <a href="https://github.com/Priyanshukumar23/Dr-Resume-Analyzer-AI">
+        <img src="https://opengraph.githubassets.com/1/Priyanshukumar23/Dr-Resume-Analyzer-AI" alt="DR-RESUME-ANALYZER Preview" width="100%" style="border-radius: 8px;" />
+      </a>
+    </td>
+    <td width="52%" valign="top">
+      <h3>🤖 <a href="https://github.com/Priyanshukumar23/Dr-Resume-Analyzer-AI">Dr-Resume-Analyzer-AI</a></h3>
+      <p><em>AI Bot & MERN Web Application</em></p>
+      <p>
+        ![Vite React](https://img.shields.io/badge/React_Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+        ![Gemini API](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+        ![Telegram API](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
+        ![PDFKit](https://img.shields.io/badge/PDFKit-FF0000?style=flat-square)
+      </p>
+      <ul>
+        <li><b>Automated Resume & JD Matching:</b> Created a high-accuracy <b>Gemini AI evaluation workflow</b> delivering ATS scoring and gap analysis for 100+ users.</li>
+        <li><b>Multi-Channel Processing:</b> Orchestrated synchronized MERN and <b>Telegram Bot API</b> endpoints processing files instantly for <b>200+ active users</b>.</li>
+        <li><b>Dynamic PDF Generation:</b> Used <code>PDFKit</code> to generate JD-optimized resumes, boosting shortlisting by <b>30%</b>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<table width="100%">
+  <tr>
+    <td width="48%" valign="top">
+      <a href="https://github.com/Priyanshukumar23/KumarBrother">
+        <img src="https://opengraph.githubassets.com/1/Priyanshukumar23/KumarBrother" alt="Kumar Brothers Preview" width="100%" style="border-radius: 8px;" />
+      </a>
+    </td>
+    <td width="52%" valign="top">
+      <h3>🛒 <a href="https://github.com/Priyanshukumar23/KumarBrother">Kumar Brothers E-Commerce</a></h3>
+      <p><em>Full-Stack E-Commerce Platform</em></p>
+      <p>
+        ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+        ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+        ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+      </p>
+      <ul>
+        <li><b>Custom E-Commerce Architecture:</b> Built a full-stack platform featuring <b>50+ product listings</b>, live search, and category navigation.</li>
+        <li><b>Database Optimization:</b> Enhanced backend performance with <b>30% optimized SQL queries</b> and secure session/cart handling.</li>
+        <li><b>Responsive UI:</b> Delivered a 100% responsive interface across desktop, tablet, and mobile devices.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-#### 2. ⚡ [PREPHUB — AI Tech Career Preparation & Networking Ecosystem](https://github.com/Priyanshukumar23/PREPHUB)
-> **Tech Stack:** `React.js` • `Node.js` • `Express.js` • `Gemini API` • `Java` • `Docker` • `Jenkins` • `Microservices`
-
-- **AI-Driven Mock Interviews & Code Evaluation:** Constructed an intelligent preparation ecosystem using the **Gemini API** for real-time C++/Java code evaluation and interactive technical interviews.
-- **ATS-Compliant Resume Builder:** Engineered a specialized resume builder that boosted shortlisting success by **40%** for 100+ active users.
-- **CONNECTIONHUB Platform:** Integrated a comprehensive career hub featuring job postings, application tracking, social feeds, and anonymous peer networking.
-- **DevOps CI/CD Pipeline:** Architected **Docker microservices** and automated deployment workflows via **Jenkins CI/CD pipelines** for zero-downtime releases.
-
----
-
-#### 3. 🌐 [SKILLSPHERE — Community & Event Management Platform](https://github.com/Priyanshukumar23/SKILLSPHERE)
-> **Tech Stack:** `Node.js` • `Express.js` • `React.js` • `MongoDB` • `Socket.io` • `JavaScript` • `HTML5/CSS3`
-
-- **Dual Panel MERN Architecture:** Empowered **200+ users** to form **10+ hobby-based groups**, share multimedia posts with synchronized music, and actively participate in **50+ curated community events**.
-- **Real-Time Communication Engine:** Integrated **Socket.io** for live group messaging and global anonymous chat rooms, boosting daily user engagement by **40%**.
-- **Automated Moderation:** Established real-time profanity filtering and strict role-based administrative controls to maintain group decorum and resolve complaints promptly.
-
----
-
-#### 4. 🤖 [DR-RESUME-ANALYZER — AI Bot & Web Application](https://github.com/Priyanshukumar23/Dr-Resume-Analyzer-AI)
-> **Tech Stack:** `React (Vite)` • `Node.js` • `Express.js` • `MongoDB` • `Gemini API` • `Telegram Bot API` • `PDFKit`
-
-- **Automated Resume & JD Matching:** Created a high-accuracy **Gemini AI evaluation system** delivering ATS scoring, gap analysis, and tailored recommendations for 100+ users.
-- **Multi-Channel Real-Time Processing:** Orchestrated a synchronized MERN web app and **Telegram Bot API** workflow enabling instant file analysis for **200+ active users**.
-- **Dynamic PDF Generation:** Integrated `PDFKit` to automatically generate JD-optimized, professional PDF resumes, increasing shortlisting rates by **30%**.
-
----
-
-#### 5. 🛒 [Kumar Brothers — Full-Stack E-Commerce Platform](https://github.com/Priyanshukumar23/KumarBrother)
-> **Tech Stack:** `PHP` • `MySQL` • `JavaScript` • `HTML5` • `CSS3`
-
-- **Custom Full-Stack Architecture:** Designed and delivered an end-to-end e-commerce application featuring **50+ dynamic product listings**, real-time search, and category-based navigation.
-- **Database Optimization:** Enhanced backend performance through **30% optimized SQL queries** while integrating robust authentication, session security, and stateful cart management.
-- **Universal Responsiveness:** Delivered a 100% responsive, high-speed UI tailored for seamless navigation across desktops, tablets, and mobile devices.
-
----
-
-### 🏆 Achievements & Problem Solving
+### 🏆 Achievements & Problem Solving Dashboard
 
 <div align="center">
 
@@ -116,14 +200,69 @@ I am a results-driven **Full-Stack & DevOps Engineer** passionate about building
 ### 📊 Data Structures & Algorithms Proficiency (LeetCode)
 
 <div align="center">
-  <h3>⚡ LeetCode Problem Solving Breakdown ⚡</h3>
-  <p><strong>Name:</strong> Priyanshu Kumar | <strong>Contest Rating:</strong> 1,413 (Top 79.92%) | <strong>Total Active Days:</strong> 175 Days</p>
+  <p>
+    ![Solved](https://img.shields.io/badge/Problems_Solved-309%2B-007396?style=for-the-badge&logo=leetcode&logoColor=white)
+    ![Medium/Hard](https://img.shields.io/badge/Medium_%2F_Hard-208%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+    ![Contest Rating](https://img.shields.io/badge/Contest_Rating-1413_(Top_79%25)-2496ED?style=for-the-badge)
+    ![Max Streak](https://img.shields.io/badge/Max_Streak-118_Days_🔥-FF4B4B?style=for-the-badge)
+  </p>
+
+  <!-- Dynamic LeetCode Heatmap & Circle Stats Card -->
+  <img src="https://leetcard.jacoblin.cool/sharma_025?theme=radical&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats & Heatmap" width="90%" />
 </div>
 
+---
+
+### 💼 Work & Training Experience
+
+#### **Java Developer Trainee** | *Cipher Schools* *(Jun 2025 – Jul 2025)*
+- Mastered core Java fundamentals, data structures, arrays, and advanced problem-solving paradigms.
+- Applied rigorous Object-Oriented Programming (OOP) concepts including inheritance, polymorphism, encapsulation, and abstraction to develop structured, production-grade applications.
+
+#### **Freelance Full-Stack Developer** | *Kumar Brothers* *(Apr 2025)*
+- Led end-to-end client consultation, system design, and deployment of a high-performance e-commerce platform.
+- Optimized backend SQL queries and integrated secure authentication and session management workflows.
+
+---
+
+### 📜 Certifications
+
+- **Oracle** — AI Foundations Associate
+- **NPTEL** — Cloud Computing
+- **Neocolab** — Data Structures and Algorithms
+- **Coursera** — Introduction to Hardware and Operating Systems
+
+---
+
+### 📈 GitHub Profile & Activity Stats
+
 <div align="center">
+  <!-- GitHub Profile Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Priyanshukumar23&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
 
-| 🟢 **Easy Solved** | 🟡 **Medium Solved** | 🔴 **Hard Solved** | 🏅 **Total Solved** | 🎯 **Submissions (1 Year)** | 🎖️ **Honors & Badges** |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| **101** | **156** | **52** | **309+ / 3999** | **544+** | **5 Badges** *(incl. 100 Days 2026)* |
+<br />
 
+<div align="center">
+  <!-- GitHub Stats & Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshukumar23&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshukumar23&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- GitHub Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshukumar23&theme=radical&hide_border=true" alt="GitHub Streak" width="80%" />
+</div>
+
+---
+
+<div align="center">
+  <h3>⚡ Let's build robust, scalable, and high-precision systems together! ⚡</h3>
+  <p>
+    <a href="https://github.com/Priyanshukumar23">GitHub Profile</a> • 
+    <a href="https://linkedin.com">LinkedIn</a> • 
+    <a href="mailto:your.email@example.com">Contact via Email</a>
+  </p>
 </div>
