@@ -1,4 +1,4 @@
-# Hi there, I'm Priyanshu Kumar — Full-Stack & DevOps Engineer 👋🚀
+# Hi there, I'm Priyanshu — Full-Stack & DevOps Engineer 👋🚀
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=780&lines=Full-Stack+%26+DevOps+Engineer+%F0%9F%9A%80;Next.js%2C+MERN+%26+Java+Developer+%F0%9F%92%BB;300%2B+DSA+Problems+Solved+%28118-Day+Streak%29+%F0%9F%A7%A0;High-Precision+Systems+%26+Microservices+Architect+%E2%9A%A1;CODEXTREME+2.0+Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
