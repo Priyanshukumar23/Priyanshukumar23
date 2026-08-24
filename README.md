@@ -1,20 +1,20 @@
-# Hi there, I'm Priyanshu — Full-Stack & DevOps Engineer 👋🚀
+# Hi there, I'm Priyanshu — Software Engineer | Full-Stack | DevOps 👋🚀
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=780&lines=Full-Stack+%26+DevOps+Engineer+%F0%9F%9A%80;Next.js%2C+MERN+%26+Java+Developer+%F0%9F%92%BB;300%2B+DSA+Problems+Solved+%28118-Day+Streak%29+%F0%9F%A7%A0;High-Precision+Systems+%26+Microservices+Architect+%E2%9A%A1;CODEXTREME+2.0+Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=780&lines=Software+Engineer+%F0%9F%9A%80;Full-Stack+%26+DevOps+Specialist+%E2%9A%A1;Next.js%2C+MERN+%26+Java+Developer+%F0%9F%92%BB;300%2B+DSA+Problems+Solved+%F0%9F%A7%A0;High-Precision+Systems+Architect+%F0%9F%9B%A0;CODEXTREME+2.0+Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 🌟 About Me
 
-I am a results-driven **Full-Stack & DevOps Engineer** passionate about building high-precision systems, scalable web applications, and robust CI/CD microservice architectures. With mastery across modern frontend/backend frameworks (**Next.js**, **React**, **Node.js/Express**, **Prisma**) and cloud-native practices (**Docker**, **Jenkins**, **PostgreSQL/Neon**), I specialize in solving complex domain challenges—from sub-unit financial precision to AI-driven career platforms.
+I am a results-driven **Software Engineer** specializing in Full-Stack development and DevOps, passionate about building high-precision systems, scalable web applications, and robust CI/CD microservice architectures. With mastery across modern frontend/backend frameworks (**Next.js**, **React**, **Node.js/Express**, **Prisma**) and cloud-native practices (**Docker**, **Jenkins**, **PostgreSQL/Neon**), I specialize in solving complex domain challenges—from sub-unit financial precision to AI-driven career platforms.
 
-- 🛠️ **Core Expertise:** End-to-end Full-Stack Engineering, DevOps CI/CD Pipelines, Microservices & Containerization
+- 🛠️ **Core Expertise:** Software Engineering, End-to-end Full-Stack Development, DevOps CI/CD Pipelines, Microservices & Containerization
 - ⚡ **Recent Focus:** Architecting **PharmSphere** (high-precision multi-unit inventory engine with Next.js & Prisma) & **Prephub** (Docker/Jenkins microservices ecosystem)
 - 🧠 **Problem Solver:** Solved **309+ Data Structures & Algorithms challenges** (mostly Medium/Hard in **Java**) with a peak **118-day streak** 🔥
 - 🏆 **Hackathon Champion:** **1st Place Winner** in **CODEXTREME 2.0 – NEOCODETHON**
-- 📫 **Let's Connect:** Open to dynamic Full-Stack, Backend, and DevOps engineering roles where innovation meets high performance!
+- 📫 **Let's Connect:** Open to dynamic Software Engineering, Backend, and DevOps roles where innovation meets high performance!
 
 ---
 
@@ -148,9 +148,9 @@ I am a results-driven **Full-Stack & DevOps Engineer** passionate about building
 
 <div align="center">
 
-| 🥇 **CODEXTREME 2.0 – NEOCODETHON** | 🔥 **118-Day Max LeetCode Streak** | 🧠 **309+ DSA Problems Solved** |
-| :---: | :---: | :---: |
-| **Top Position Winner** in competitive coding showdown across multiple rounds | Maintained unwavering daily problem-solving discipline for **118 days straight** | Solved **309+ problems** primarily in **Java** across complex algorithms |
+| 🥇 **CODEXTREME 2.0 – NEOCODETHON** | 🔥 **118-Day Max LeetCode Streak** | 🧠 **309+ DSA Problems Solved** | 🏆 **A+ Developer Award** |
+| :---: | :---: | :---: | :---: |
+| **Top Position Winner** in competitive coding showdown across multiple rounds | Maintained unwavering daily problem-solving discipline for **118 days straight** | Solved **309+ problems** primarily in **Java** across complex algorithms | Built enterprise-grade systems utilizing Dijkstra, BFS & Merge Sort! |
 
 </div>
 
@@ -176,7 +176,7 @@ I am a results-driven **Full-Stack & DevOps Engineer** passionate about building
 - Mastered core Java fundamentals, data structures, arrays, and advanced problem-solving paradigms.
 - Applied rigorous Object-Oriented Programming (OOP) concepts including inheritance, polymorphism, encapsulation, and abstraction to develop structured, production-grade applications.
 
-#### **Freelance Full-Stack Developer** | *Kumar Brothers* *(Apr 2025)*
+#### **Freelance Software Engineer** | *Kumar Brothers* *(Apr 2025)*
 - Led end-to-end client consultation, system design, and deployment of a high-performance e-commerce platform.
 - Optimized backend SQL queries and integrated secure authentication and session management workflows.
 
