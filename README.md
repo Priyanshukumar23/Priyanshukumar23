@@ -54,18 +54,19 @@ I am a results-driven **Full-Stack & DevOps Engineer** passionate about building
 
 ### 🚀 Featured Projects
 
-### 🚚 [SwiftTrack — Intelligent Logistics & Delivery Management Platform](https://github.com/Priyanshukumar23/SwiftTrack)
+### 🚚 [SwiftTrack — Smart Delivery Route & Order Management System](https://github.com/Priyanshukumar23/SwiftTrack)
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Core_Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-8A2BE2?style=for-the-badge" alt="DSA" />
+  <img src="https://img.shields.io/badge/Next.js_(Future_UI)-000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js_(Future_API)-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL_(Future_DB)-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-- **Intelligent Routing & Logistics:** Engineered a smart routing algorithm to optimize delivery paths and minimize transit times for fleet management.
-- **Real-Time Tracking & Analytics:** Implemented real-time order tracking using WebSockets and location APIs, providing live updates to customers and administrators.
-- **Microservices Architecture:** Built a scalable backend with isolated services for order processing, driver dispatch, and payment gateways ensuring seamless and robust operations.
+- **Algorithmic Routing & Logistics (DSA):** Engineered a high-performance backend using **Dijkstra's Algorithm** for shortest-path delivery routing and absolute closest-agent assignment on a mapped graph network.
+- **Advanced Priority Processing:** Implemented robust queue management (`PriorityQueue`, `ArrayDeque`) to handle URGENT/HIGH priority orders, plus a custom **Merge Sort** for distance analysis and **BFS** for neighborhood discovery.
+- **Future Architecture Scope:** Currently a pure Core Java CLI system; architected for future expansion into a full-stack microservices ecosystem integrating **Node.js/Spring Boot** (REST APIs), **Next.js** (Web UI), and **PostgreSQL** (Persistent storage).
 
 ---
 
