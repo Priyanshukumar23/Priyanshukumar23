@@ -1,10 +1,3 @@
-Edited github_profile_readme.md
-
-I have successfully updated the project title and repository link to **SwiftTrack** (`https://github.com/Priyanshukumar23/SwiftTrack`)!
-
-Here is the final, complete, and perfectly formatted Markdown code ready to be pasted directly into your GitHub Profile README:
-
-```markdown
 # Hi there, I'm Priyanshu — Full-Stack & DevOps Engineer 👋🚀
 
 <div align="center">
@@ -229,4 +222,3 @@ I am a results-driven **Full-Stack & DevOps Engineer** passionate about building
     <a href="mailto:your.email@example.com">Contact via Email</a>
   </p>
 </div>
-```
