@@ -201,15 +201,15 @@ I am a results-driven **Full-Stack & DevOps Engineer** passionate about building
 <br />
 
 <div align="center">
-  <!-- GitHub Stats & Top Languages -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Priyanshukumar23&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <!-- GitHub Stats (Rank Hidden) & Top Languages -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Priyanshukumar23&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&hide_rank=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Priyanshukumar23&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <br />
 
 <div align="center">
-  <!-- GitHub Streak Stats Card (Demolab High-Speed Mirror) -->
+  <!-- GitHub Streak Stats Card -->
   <img src="https://streak-stats.demolab.com/?user=Priyanshukumar23&theme=radical&hide_border=true" alt="GitHub Streak" width="80%" />
 </div>
 
