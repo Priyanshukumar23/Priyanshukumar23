@@ -1,3 +1,10 @@
+Edited github_profile_readme.md
+
+I have successfully updated the project title and repository link to **SwiftTrack** (`https://github.com/Priyanshukumar23/SwiftTrack`)!
+
+Here is the final, complete, and perfectly formatted Markdown code ready to be pasted directly into your GitHub Profile README:
+
+```markdown
 # Hi there, I'm Priyanshu — Full-Stack & DevOps Engineer 👋🚀
 
 <div align="center">
@@ -53,6 +60,21 @@ I am a results-driven **Full-Stack & DevOps Engineer** passionate about building
 ---
 
 ### 🚀 Featured Projects
+
+### 🚚 [SwiftTrack — Intelligent Logistics & Delivery Management Platform](https://github.com/Priyanshukumar23/SwiftTrack)
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+- **Intelligent Routing & Logistics:** Engineered a smart routing algorithm to optimize delivery paths and minimize transit times for fleet management.
+- **Real-Time Tracking & Analytics:** Implemented real-time order tracking using WebSockets and location APIs, providing live updates to customers and administrators.
+- **Microservices Architecture:** Built a scalable backend with isolated services for order processing, driver dispatch, and payment gateways ensuring seamless and robust operations.
+
+---
 
 ### 🏥 [PharmSphere — High-Precision Inventory & Order Management System](https://github.com/Priyanshukumar23/PharmSphere)
 
@@ -186,8 +208,8 @@ I am a results-driven **Full-Stack & DevOps Engineer** passionate about building
 
 <div align="center">
   <!-- GitHub Stats & Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshukumar23&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshukumar23&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Priyanshukumar23&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Priyanshukumar23&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <br />
@@ -207,3 +229,4 @@ I am a results-driven **Full-Stack & DevOps Engineer** passionate about building
     <a href="mailto:your.email@example.com">Contact via Email</a>
   </p>
 </div>
+```
